@@ -1,3 +1,5 @@
+**Contact** : ajaysaiva@gmail.com for clarifications
+
 # Role-Based-Access-System
 
 ## Steps to start program
@@ -47,6 +49,7 @@ Resource : resource1
 Role : role1 which has `[READ,WRITE,DELETE]` access to resource resource1
 
 User : admin who has been assigned role role1
+
 Hence admin user has [READ,WRITE,DELETE] access to resource resource1.
 
 ## Sample Command Line interaction
